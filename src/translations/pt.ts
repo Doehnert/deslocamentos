@@ -1,0 +1,20 @@
+export const messages = {
+  'clients.id': 'ID',
+  'clients.numeroDocumento': 'Número do Documento',
+  'clients.tipoDocumento': 'Tipo de Documento',
+  'clients.nome': 'Nome',
+  'clients.logradouro': 'Endereço',
+  'clients.numero': 'Número',
+  'clients.bairro': 'Bairro',
+  'clients.cidade': 'Cidade',
+  'clients.uf': 'Estado',
+  'clients.actions': 'Ações',
+  'clients.deleteClient': 'Excluir Cliente',
+  'clients.confirmDeleteTitle': 'Excluir cliente?',
+  'clients.confirmDeleteMessage':
+    'Tem certeza que deseja excluir esse cliente?',
+  'clients.yes': 'Sim',
+  'clients.no': 'Não',
+  'clients.add': 'Adicionar Cliente',
+  Add: 'Adicionar',
+}
