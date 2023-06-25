@@ -1,6 +1,10 @@
 {
-  "name": "material-next-ts",
-  "version": "5.0.0",
+  "name": "deslocamentos",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Fernando Doehnert",
+    "email": "eltonfd@gmail.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
