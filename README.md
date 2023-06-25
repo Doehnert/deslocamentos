@@ -1,44 +1,27 @@
-# Material UI - Next.js example in TypeScript
+# Deslocamentos
 
-## How to use
+Projeto desafio para a api de deslocamentos usando NextJS e Typescript
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+## Instalação
 
-<!-- #default-branch-switch -->
+Certifique-se de ter o Node.js e o npm instalados. Execute o seguinte comando para instalar as dependências:
 
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/material-next-ts
-cd material-next-ts
-```
+> `npm install`
+> 
+> `npm run dev`
 
-Install it and run:
+## Uso
 
-```sh
-npm install
-npm run dev
-```
+CRUD para clientes, condutores, veículos e deslocamentos.
 
-or:
 
-<!-- #default-branch-switch -->
+## Contribuição
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-next-ts)
+Contribuições são bem-vindas! Para sugestões, melhorias ou correções de bugs, siga as etapas abaixo:
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/material-next-ts)
-
-## The idea behind the example
-
-The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5. If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
-
-## The link component
-
-The [example folder](https://github.com/mui/material-ui/tree/HEAD/examples/material-next-ts) provides an adapter for the use of [Next.js's Link component](https://nextjs.org/docs/api-reference/next/link) with MUI.
-More information [in the documentation](https://mui.com/material-ui/guides/routing/#next-js).
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+1. Faça um fork do projeto
+2. Crie um branch para a sua feature (`git checkout -b feature/nome-da-feature`)
+3. Faça as alterações necessárias
+4. Commit suas alterações (`git commit -m 'Adicionar nova feature'`)
+5. Envie para o branch (`git push origin feature/nome-da-feature`)
+6. Abra um Pull Request
